@@ -66,3 +66,13 @@ Rather than assuming capacity expansion is the only solution, it highlights how 
 ## Files
 
 - `notebook.ipynb` – full reproducible analysis
+
+- ---
+
+## Next Steps
+
+With additional data, this analysis could be extended by:
+- Incorporating more granular appointment duration data to better estimate capacity constraints
+- Analysing DNAs by patient cohort or region to support more targeted interventions
+- Evaluating the impact of reminder or rescheduling interventions over time
+
