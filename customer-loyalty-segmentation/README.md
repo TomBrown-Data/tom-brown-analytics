@@ -62,3 +62,13 @@ This project demonstrates the ability to combine statistical analysis, segmentat
 
 - `notebook.ipynb` – full analysis and modelling
 
+
+
+---
+
+## Next Steps
+
+Potential extensions to this analysis include:
+- Testing alternative clustering methods to compare segment stability
+- Incorporating longitudinal behaviour to track loyalty changes over time
+- Evaluating the impact of targeted promotions on segment movement
